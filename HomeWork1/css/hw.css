@@ -1,0 +1,82 @@
+.wrapper {
+    background: #fdfbfb;
+    width: 1024px;
+    height: 1024px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 36px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.myphoto {
+    width: 218px;
+    height: 218px;
+    border: 1px;
+    border-color: #8f8f8f;
+    background: url(../img/background.jpg) no-repeat;
+    margin-left: 400px;
+}
+
+.text1 {
+    font-family: Arial;
+    font-size: 14px;
+    color: #a2a6a4;
+    padding-bottom: 30px;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #a2a6a4;
+}
+
+.about {
+    font-family: 'Myriad Pro';
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.list {
+    margin-left: 230px;
+    margin-right: 230px;
+    padding-bottom: 30px;
+    font-family: 'Myriad Pro';
+    font-weight: normal;
+    font-size: 14px;
+    color: #a2a6a4;
+    border-bottom: 1px solid #a2a6a4;
+}
+
+.number {
+    padding-left: 240px;
+    font-family: 'Myriad Pro';
+    font-weight: normal;
+    font-size: 14px;
+    color: #a2a6a4;
+}
+
+.link {
+    padding-left: 20px;
+    padding-bottom: 30px;
+    margin-left: 230px;
+    margin-right: 230px;
+    font-family: 'Myriad Pro';
+    font-style: italic;
+    font-size: 14px;
+    border-bottom: 1px solid #a2a6a4;
+}
+
+.feedback {
+    padding-left: 240px;
+    font-family: 'Myriad Pro';
+    font-weight: normal;
+    font-size: 14px;
+    color: #a2a6a4;
+}
